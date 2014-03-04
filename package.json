@@ -1,7 +1,7 @@
 {
   "name": "electron-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A modern dark syntax theme",
   "repository": "https://github.com/benogle/electron-dark-syntax",
   "license": "MIT",
