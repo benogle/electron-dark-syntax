@@ -1,5 +1,8 @@
-# electron-dark-syntax theme
+# Electron Dark Syntax Theme
 
-A short description of your theme.
+Visually based on the [neutron-syntax] theme. Looks great with the [neutron-ui] UI theme.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Money shot](https://f.cloud.github.com/assets/69169/2317235/17a7ade0-a348-11e3-916d-d991707cce23.png)
+
+[neutron-syntax]: https://github.com/brentd/neutron-syntax
+[neutron-ui]: https://github.com/brentd/neutron-ui
